@@ -1,12 +1,12 @@
 "use client";
 
-import { useState } from "react";
 import Link from "next/link";
-import { TextProvider } from "../context/TextContext";
 import { usePathname } from "next/navigation";
+import { TextProvider } from "../context/TextContext";
 
 const pages = [
-  { id: 1, name: "Medical Investigations" },
+  { path: "/dashboard/medical-investigations", name: "Medical Investigations" },
+  { path: "/dashboard/progress-notes", name: "Daily Progress Notes" },
   // Add more pages here as needed
 ];
 
@@ -26,10 +26,10 @@ export default function DashboardLayout({
           <nav className="space-y-2">
             {pages.map((page) => (
               <Link
-                key={page.id}
-                href={`/dashboard/page/${page.id}`}
+                key={page.path}
+                href={page.path}
                 className={`block p-2 rounded transition-colors ${
-                  pathname === `/dashboard/page/${page.id}`
+                  pathname === page.path
                     ? 'bg-blue-600 text-white'
                     : 'hover:bg-gray-700'
                 }`}
