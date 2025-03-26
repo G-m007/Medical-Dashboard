@@ -1,0 +1,64 @@
+LABORATORY RESULTS
+=================
+
+PATIENT: John Doe
+MRN: 12345678
+COLLECTION DATE: 2023-11-15
+REPORTED DATE: 2023-11-15
+
+HEMATOLOGY
+----------
+Complete Blood Count (CBC):
+- WBC: 12.5 x10^3/μL (Reference: 4.5-11.0) [HIGH]
+- RBC: 4.8 x10^6/μL (Reference: 4.5-5.9) [NORMAL]
+- Hemoglobin: 14.2 g/dL (Reference: 13.5-17.5) [NORMAL]
+- Hematocrit: 42% (Reference: 41-50%) [NORMAL]
+- Platelets: 245 x10^3/μL (Reference: 150-450) [NORMAL]
+- Neutrophils: 75% (Reference: 40-60%) [HIGH]
+- Lymphocytes: 20% (Reference: 20-40%) [NORMAL]
+- Monocytes: 3% (Reference: 2-8%) [NORMAL]
+- Eosinophils: 1% (Reference: 1-4%) [NORMAL]
+- Basophils: 1% (Reference: 0-1%) [NORMAL]
+
+CHEMISTRY
+---------
+Basic Metabolic Panel:
+- Sodium: 138 mEq/L (Reference: 136-145) [NORMAL]
+- Potassium: 4.2 mEq/L (Reference: 3.5-5.1) [NORMAL]
+- Chloride: 101 mEq/L (Reference: 98-107) [NORMAL]
+- CO2: 24 mEq/L (Reference: 22-29) [NORMAL]
+- BUN: 18 mg/dL (Reference: 7-20) [NORMAL]
+- Creatinine: 1.0 mg/dL (Reference: 0.6-1.2) [NORMAL]
+- Glucose: 165 mg/dL (Reference: 70-99) [HIGH]
+- Calcium: 9.5 mg/dL (Reference: 8.5-10.2) [NORMAL]
+
+Liver Function Tests:
+- AST: 25 U/L (Reference: 10-40) [NORMAL]
+- ALT: 30 U/L (Reference: 7-56) [NORMAL]
+- Alkaline Phosphatase: 75 U/L (Reference: 44-147) [NORMAL]
+- Total Bilirubin: 0.8 mg/dL (Reference: 0.1-1.2) [NORMAL]
+- Albumin: 4.0 g/dL (Reference: 3.4-5.4) [NORMAL]
+- Total Protein: 7.0 g/dL (Reference: 6.4-8.2) [NORMAL]
+
+Inflammatory Markers:
+- C-Reactive Protein: 15 mg/L (Reference: <10) [HIGH]
+- Erythrocyte Sedimentation Rate: 25 mm/hr (Reference: 0-15) [HIGH]
+- Procalcitonin: 0.5 ng/mL (Reference: <0.5) [BORDERLINE]
+
+MICROBIOLOGY
+-----------
+Blood Culture (2 sets):
+- No growth after 5 days
+
+Sputum Culture:
+- Moderate growth of Streptococcus pneumoniae
+- Susceptible to: Penicillin, Ceftriaxone, Azithromycin, Levofloxacin
+- Resistant to: None
+
+RADIOLOGY CORRELATION
+--------------------
+Chest X-ray findings consistent with right lower lobe pneumonia.
+
+INTERPRETATION
+-------------
+Laboratory findings consistent with bacterial infection, likely pneumonia. Elevated inflammatory markers and WBC with neutrophil predominance. Blood glucose elevated, likely due to stress response and underlying diabetes. Renal and liver function within normal limits. 

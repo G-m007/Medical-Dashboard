@@ -1,0 +1,47 @@
+PATIENT MEDICAL RECORD
+====================
+
+PATIENT VISIT NOTES - Dr. Sarah Johnson
+Date: 2023-11-15
+
+Patient presented with complaints of persistent cough for 2 weeks, fever, and fatigue. Initial examination showed elevated temperature of 100.4°F, blood pressure 130/85, and respiratory rate of 22 breaths per minute.
+
+DIAGNOSTIC TESTS:
+- Chest X-ray: Showed infiltrates in the right lower lobe consistent with pneumonia
+- Complete Blood Count: WBC 12,500/μL (elevated), indicating infection
+- Blood Cultures: Negative for bacterial growth
+- COVID-19 PCR Test: Negative
+- Sputum Culture: Positive for Streptococcus pneumoniae, sensitive to amoxicillin
+
+DIAGNOSIS:
+Community-acquired pneumonia (right lower lobe), bacterial etiology (Streptococcus pneumoniae)
+
+TREATMENT:
+- Admitted for IV antibiotics and supportive care
+- Started on IV Ceftriaxone 1g every 24 hours
+- Supplemental oxygen via nasal cannula at 2L/min to maintain O2 saturation >95%
+- Acetaminophen 650mg every 6 hours as needed for fever and pain
+- IV fluids for hydration
+
+HOSPITAL COURSE:
+Day 1-2: Patient remained febrile with persistent cough. Oxygen requirements stable.
+Day 3: Fever resolved, improved appetite, decreased oxygen requirements.
+Day 4-5: Significant clinical improvement. Transitioned from IV to oral antibiotics (Amoxicillin-Clavulanate 875mg/125mg twice daily).
+Day 6: Patient ambulating independently, vital signs stable, no oxygen requirement.
+
+MEDICATIONS AT DISCHARGE:
+1. Amoxicillin-Clavulanate 875mg/125mg, 1 tablet twice daily for 7 days
+2. Acetaminophen 650mg every 6 hours as needed for pain
+3. Dextromethorphan-Guaifenesin syrup 10mL every 4 hours as needed for cough
+
+FOLLOW-UP RECOMMENDATIONS:
+- Follow-up appointment with primary care physician in 1 week
+- Repeat chest X-ray in 4-6 weeks to ensure resolution
+- Rest and gradually increase activity as tolerated
+- Maintain good hydration
+- Return to work/school after completing 7 days of antibiotics if symptoms continue to improve
+
+PREVENTIVE MEASURES:
+- Recommended pneumococcal vaccination at follow-up visit
+- Annual influenza vaccination
+- Smoking cessation counseling provided (patient is a current smoker, 1/2 pack per day for 10 years) 

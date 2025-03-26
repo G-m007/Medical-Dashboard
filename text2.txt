@@ -1,0 +1,68 @@
+PATIENT MEDICAL HISTORY
+======================
+
+PATIENT: John Doe
+DOB: 05/12/1975
+MRN: 12345678
+PCP: Dr. Robert Chen
+
+ALLERGIES:
+- Penicillin (hives)
+- Sulfa drugs (rash)
+- Shellfish (anaphylaxis)
+
+PAST MEDICAL HISTORY:
+1. Hypertension (diagnosed 2015)
+2. Type 2 Diabetes Mellitus (diagnosed 2018)
+3. Hyperlipidemia
+4. Appendectomy (2010)
+5. Mild asthma (childhood, currently inactive)
+
+FAMILY HISTORY:
+- Father: Coronary artery disease, MI at age 62, Type 2 diabetes
+- Mother: Hypertension, breast cancer at age 70
+- Brother: Healthy
+- Sister: Type 2 diabetes
+
+SOCIAL HISTORY:
+- Occupation: High school teacher
+- Tobacco: Current smoker, 1/2 pack per day for 10 years
+- Alcohol: Social drinker, 2-3 drinks per week
+- Exercise: Sedentary lifestyle
+- Marital Status: Married with 2 children
+
+CURRENT MEDICATIONS (PRIOR TO ADMISSION):
+1. Lisinopril 10mg daily
+2. Metformin 1000mg twice daily
+3. Atorvastatin 20mg daily
+4. Aspirin 81mg daily
+5. Multivitamin daily
+
+IMMUNIZATION HISTORY:
+- Influenza: Last received October 2022
+- Tetanus/Tdap: 2019
+- COVID-19: Primary series completed January 2021, booster March 2022
+- Pneumococcal vaccine: Not received
+
+PREVIOUS HOSPITALIZATIONS:
+1. 2010: Appendectomy
+2. 2019: Diabetic ketoacidosis (3-day hospitalization)
+
+REVIEW OF SYSTEMS (BASELINE):
+- Cardiovascular: Occasional palpitations, no chest pain
+- Respiratory: Occasional shortness of breath with exertion
+- Gastrointestinal: Occasional heartburn
+- Neurological: No issues
+- Musculoskeletal: Mild lower back pain
+- Endocrine: Polyuria, polydipsia (controlled with medication)
+- Psychiatric: No issues
+
+RECENT LABORATORY RESULTS (3 months prior):
+- HbA1c: 7.2%
+- Fasting glucose: 135 mg/dL
+- Total cholesterol: 185 mg/dL
+- LDL: 110 mg/dL
+- HDL: 42 mg/dL
+- Triglycerides: 165 mg/dL
+- Creatinine: 1.0 mg/dL
+- eGFR: >60 mL/min/1.73m² 
