@@ -104,7 +104,7 @@ export default function MedicalInvestigations() {
               disabled={loading}
             />
           </label>
-          {medicalData?.investigations?.length > 0 && (
+          {medicalData?.investigations?.length && (
             <button
               onClick={() => setEditMode(!editMode)}
               className={`px-4 py-2 rounded-lg font-medium transition-colors ${
